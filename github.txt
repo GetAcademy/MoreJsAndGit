@@ -1,0 +1,7 @@
+1: Lage seg konto på github.com
+2: Laste ned og installere GitHub Desktop
+   https://github.com/apps/desktop
+   Logg inn (File -> Options -> Sign in)
+3: Sende kode til GitHub (første gang)
+
+Hente kode fra GitHub
