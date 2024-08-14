@@ -3,7 +3,5 @@
    https://github.com/apps/desktop
    Logg inn (File -> Options -> Sign in)
 3: Sende kode til GitHub (første gang)
-   File -> New Repository
-   Velg mappe under Local path
-   Flytte siste mappenavn til name
+
 Hente kode fra GitHub
